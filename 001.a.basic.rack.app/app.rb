@@ -1,3 +1,5 @@
+#Sinatra and Rails are rack based
+
 # Let's get some superweb powers.
 
 # Make sure to gem install rack first.
